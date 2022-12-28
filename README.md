@@ -6,7 +6,7 @@ Fork form https://github.com/593304/Domoticz-Tapo
 
 ## Prerequisites
 ### PyP100 library
-This module is using Toby Johnson's PyP100 library. Install this module by running this command: pip3 install PyP100.
+This module is using Toby Johnson's PyP100 library. Install this module by running this command: `pip3 install PyP100.
 You will also need the IP address of your Tapo device(s).
 
 ## Installation
