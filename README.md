@@ -9,6 +9,7 @@ This module is using Toby Johnson's PyP100 library.
 Install this module by running this command: `pip3 install PyP100`  
 or
 `pip3 install PyP100 --target /home/pi/domoticz/plugins/Tapo-P110-Domoticz`
+
 You will also need the IP address of your Tapo device(s).
 
 ## Installation
